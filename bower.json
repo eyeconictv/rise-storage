@@ -1,6 +1,6 @@
 {
   "name": "rise-storage",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "authors": [
     "Rise Vision"
   ],
@@ -11,7 +11,7 @@
     "web-components"
   ],
   "license": "GPLv3",
-  "homepage": "https://github.com/Rise-Vision/rise-storage",
+  "homepage": "https://github.com/eyeconictv/rise-storage",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -23,7 +23,7 @@
   "dependencies": {
     "iron-ajax": "PolymerElements/iron-ajax#^1.0.0",
     "polymer": "Polymer/polymer#^1.0.0",
-    "rise-logger": "https://github.com/Rise-Vision/rise-logger.git#1.0.10",
+    "rise-logger": "https://github.com/eyeconictv/rise-logger.git#1.0.13",
     "underscore": "~1.8.3"
   },
   "devDependencies": {
